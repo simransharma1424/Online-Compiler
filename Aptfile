@@ -1,0 +1,5 @@
+http://ftp.br.debian.org/debian/pool/main/g/gcc-defaults/gcc_6.3.0-4_amd64.deb
+http://archive.ubuntu.com/ubuntu/pool/main/g/gcc-defaults/gcc_7.3.0-3ubuntu2_amd64.deb
+http://security.ubuntu.com/ubuntu/pool/universe/l/llvm-toolchain-3.9/clang-3.9_3.9.1-4ubuntu3~14.04.3_amd64.deb
+http://security.ubuntu.com/ubuntu/pool/main/g/gcc-4.8/gcc-4.8_4.8.4-2ubuntu1~14.04.4_amd64.deb
+http://za.archive.ubuntu.com/ubuntu/pool/universe/t/tcc/tcc_0.9.26~git20120612.ad5f375-6_amd64.deb
